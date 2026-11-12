@@ -1,0 +1,273 @@
+code,name,category,eff_from,sem,L,T,P,PBL,credit,E,M,I,V,total
+110001,Chemistry,Compulsory,2008-09,1,3,0,2,NA,5,70,30,50,0,150
+110002,Communication Skills,Compulsory,2008-09,1,1,0,2,NA,3,70,30,50,0,150
+110003,Computer Programming and Utilization,Compulsory,2008-09,1,2,0,4,NA,6,70,30,50,0,150
+110004,Elements of Civil Engineering,Compulsory,2008-09,1,4,0,2,NA,6,70,30,50,0,150
+110005,Elements of Electrical Engineering,Compulsory,2008-09,1,4,0,2,NA,6,70,30,50,0,150
+110006,Elements of Mechanical Engineering,Compulsory,2008-09,1,4,0,2,NA,6,70,30,50,0,150
+110007,Environmental Studies,Compulsory,2008-09,1,3,0,0,NA,3,70,30,50,0,150
+110010,Mechanics of Solids,Compulsory,2008-09,1,3,0,2,NA,5,70,30,50,0,150
+110011,Physics,Compulsory,2008-09,1,3,0,2,NA,5,70,30,50,0,150
+110012,Workshop,Compulsory,2008-09,1,0,0,4,NA,4,0,0,100,0,100
+110013,Engineering Graphics,Compulsory,2008-09,1,2,0,4,NA,6,70,30,50,0,150
+110014,Calculus,Compulsory,2008-09,1,3,2,0,NA,5,70,30,50,0,150
+110015,Vector Calculus and Linear Algebra,Compulsory,2008-09,1,3,2,0,NA,5,70,30,50,0,150
+1990001,Contributor Personality Development,Compulsory,2008-09,1,4,0,0,NA,4,70,30,50,0,150
+130002,Advanced Engineering Mathematics,Compulsory,2008-09,3,3,2,0,NA,5,70,30,50,0,150
+130701,Digital Logic Design,Compulsory,2008-09,3,4,0,2,NA,6,70,30,50,0,150
+130702,Data and File Structures,Compulsory,2008-09,3,3,0,2,NA,5,70,30,50,0,150
+130703,Database Management System,Compulsory,2008-09,3,3,0,2,NA,5,70,30,50,0,150
+130704,Computer Organization and Architecture,Compulsory,2008-09,3,3,0,0,NA,3,70,30,50,0,150
+131101,Basic Electronics,Compulsory,2008-09,3,4,0,2,NA,6,70,30,50,0,150
+140001,Mathematics-IV,Compulsory,2008-09,4,3,2,0,NA,5,70,30,50,0,150
+140002,Management-I,Compulsory,2008-09,4,2,0,0,NA,2,70,30,50,0,150
+140701,Microprocessor And Interfacing,Compulsory,2008-09,4,3,0,2,NA,5,70,30,50,0,150
+140702,Operating System,Compulsory,2008-09,4,4,0,2,NA,6,70,30,50,0,150
+140703,Object Oriented Analysis Design And Uml,Compulsory,2008-09,4,4,0,2,NA,6,70,30,50,0,150
+140704,Object Oriented Concepts And Programming,Institute Elective,2008-09,4,4,0,2,NA,6,70,30,50,0,150
+140705,Object Oriented Programming with C++,Compulsory,2008-09,4,4,0,2,NA,6,70,30,50,0,150
+150001,Management - II,Compulsory,2008-09,5,2,0,0,NA,2,70,30,50,0,150
+150701,Advance Processors,Compulsory,2008-09,5,3,0,2,NA,5,70,30,50,0,150
+150702,Computer Network,Compulsory,2008-09,5,4,0,2,NA,6,70,30,50,0,150
+150703,Design and Analysis of Algorithms,Compulsory,2008-09,5,4,0,2,NA,6,70,30,50,0,150
+150704,Object Oriented Programming With Java,Compulsory,2008-09,5,2,0,2,NA,4,70,30,50,0,150
+150705,Seminar,Compulsory,2008-09,5,0,0,1,NA,1,0,0,100,0,100
+150706,Visual Basic Applications and Programming,Institute Elective,2008-09,5,4,0,2,NA,6,70,30,50,0,150
+160701,Software Engineering,Compulsory,2008-09,6,4,0,2,NA,6,70,30,50,0,150
+160702,Information Security,Compulsory,2008-09,6,4,0,2,NA,6,70,30,50,0,150
+160703,Computer Graphics,Compulsory,2008-09,6,4,0,2,NA,6,70,30,50,0,150
+160704,Theory Of Computation,Compulsory,2008-09,6,3,0,0,NA,3,70,30,50,0,150
+160705,Web Application Development,Compulsory,2008-09,6,3,0,2,NA,5,70,30,50,0,150
+160706,System Programming,Compulsory,2008-09,6,2,0,2,NA,4,70,30,50,0,150
+170001,Project - I,Compulsory,2008-09,7,0,0,4,NA,4,0,0,50,100,150
+170701,Compiler Design,Compulsory,2008-09,7,3,0,2,NA,5,70,30,20,30,150
+170702,Mobile Computing,Compulsory,2008-09,7,3,0,2,NA,5,70,30,20,30,150
+170703,Advance Java Technology,Compulsory,2008-09,7,3,0,2,NA,5,70,30,20,30,150
+170704,Advance Computing,Compulsory,2008-09,7,3,0,2,NA,5,70,30,20,30,150
+170705,Embedded Technology,Department Elective-I,2008-09,7,4,0,2,NA,6,70,30,20,30,150
+170706,Computer Signal Processing,Department Elective-I,2008-09,7,4,0,2,NA,6,70,30,20,30,150
+170707,Advance .Net Technology,Department Elective-I,2008-09,7,4,0,2,NA,6,70,30,20,30,150
+170708,Web Data Management,Department Elective-I,2008-09,7,4,0,2,NA,6,70,30,20,30,150
+180701,Distributed Systems,Compulsory,2008-09,8,4,0,2,NA,6,70,30,20,30,150
+180702,Parallel Processing,Compulsory,2008-09,8,4,0,2,NA,6,70,30,20,30,150
+180703,Artificial Intelligence,Departmental Elective II,2008-09,8,4,0,2,NA,6,70,30,20,30,150
+180704,Advance Computer Networks,Department Elective - II,2008-09,8,4,0,2,NA,6,70,30,20,30,150
+180706,Project - II,Compulsory,2008-09,8,0,0,12,NA,12,0,0,50,150,200
+180707,iOS Programming,Departmental Elective II,2008-09,8,4,0,2,NA,6,70,30,20,30,150
+180708,Android Programming,Departmental Elective II,2008-09,8,4,0,2,NA,6,70,30,20,30,150
+181605,Service Oriented Computing,Departmental Elective II,2008-09,8,4,0,2,NA,6,70,30,20,30,150
+3110002,English,Humanities and Social Science,2018-19,1,2,0,2,NA,3,70,30,20,30,150
+3110003,Programming for Problem Solving,Engineering Science,2018-19,1,3,0,2,NA,4,70,30,20,30,150
+3110005,Basic Electrical Engineering,Engineering Science,2018-19,1,3,0,2,NA,4,70,30,20,30,150
+3110006,Basic Mechanical Engineering,Engineering Science,2018-19,1,3,0,2,NA,4,70,30,20,30,150
+3110007,Environmental Sciences,Mandatory,2018-19,1,2,2,0,NA,0,70,30,0,0,100
+3110012,Workshop/ Manufacturing Practices,Engineering Science,2018-19,1,0,0,4,NA,2,0,0,20,80,100
+3110013,Engineering Graphics & Design,Engineering Science,2018-19,1,2,0,4,NA,4,70,30,20,30,150
+3110014,Mathematics - 1,Basic Science,2018-19,1,3,2,0,NA,5,70,30,0,0,100
+3110015,Mathematics - 2,Basic Science,2018-19,1,3,2,0,NA,5,70,30,0,0,100
+3110016,Basic Electronics,Engineering Science,2018-19,1,3,0,2,NA,4,70,30,20,30,150
+3110017,Induction Program,Mandatory,2018-19,1,0,0,0,NA,0,0,0,0,0,0
+3110018,Physics,Basic Science (Elective),2018-19,1,3,0,2,NA,4,70,30,20,30,150
+3130004,Effective Technical Communication,Humanities and Social Science,2018-19,3,2,0,2,NA,3,70,30,20,30,150
+3130006,Probability and Statistics,Basic Science,2018-19,3,3,2,0,NA,5,70,30,0,0,100
+3130007,Indian Constitution,Mandatory,2018-19,3,2,0,0,NA,0,50,0,0,0,50
+3130008,Design Engineering - I A,Project Work,2018-19,3,0,0,2,NA,1,0,0,20,80,100
+3130702,Data Structures,Professional Core,2018-19,3,3,0,4,NA,5,70,30,20,30,150
+3130703,Database Management Systems,Professional Core,2018-19,3,4,0,2,NA,5,70,30,20,30,150
+3130704,Digital Fundamentals,Engineering Science,2018-19,3,3,0,2,NA,4,70,30,20,30,150
+3140005,Design Engineering 1 B,Project Work,2018-19,4,0,0,2,NA,1,0,0,20,80,100
+3140702,Operating System,Professional Core,2018-19,4,4,0,2,NA,5,70,30,20,30,150
+3140705,Object Oriented Programming -I,Professional Core,2018-19,4,4,0,2,NA,5,70,30,20,30,150
+3140707,Computer Organization & Architecture,Professional Core,2018-19,4,3,0,2,NA,4,70,30,20,30,150
+3140708,Discrete Mathematics,Basic Science,2018-19,4,3,2,0,NA,5,70,30,0,0,100
+3140709,Principles of Economics and Management,Humanities and Social Science,2018-19,4,3,0,0,NA,3,70,30,0,0,100
+BE01000011,Student Induction Program with essence of Indian Knowledge System,Mandatory Non-Credit Courses – Audit Course,2024-25,1,0,0,0,NA,0,0,0,0,0,0
+BE01000021,Physics,Basic Science Courses,2024-25,1,3,0,2,NA,4,70,30,20,30,150
+BE01000031,Chemistry,Basic Science Courses,2024-25,1,3,0,2,NA,4,70,30,20,30,150
+BE01000041,Mathematics-I,Basic Science Courses,2024-25,1,3,1,0,NA,4,70,30,0,0,100
+BE01000051,Basic Electrical Engineering,Engineering Science Courses,2024-25,1,3,0,2,NA,4,70,30,20,30,150
+BE01000061,Engineering Graphics & Design,Engineering Science Courses,2024-25,1,1,0,2,NA,2,70,30,20,30,150
+BE01000071,Design Thinking,Engineering Science Courses,2024-25,1,0,0,4,NA,2,0,0,20,80,100
+BE01000081,Basic Mechanical Engineering,Engineering Science Courses,2024-25,1,3,0,2,NA,4,70,30,20,30,150
+BE01000111,Basic Electronics Engineering,Engineering Science Courses,2024-25,1,3,0,2,NA,4,70,30,20,30,150
+BE01000121,Programming for Problem Solving,Engineering Science Courses,2024-25,1,2,0,4,NA,4,70,30,20,30,150
+BE01000141,Universal Human Values,"Humanities and Social Science, including Management Courses",2024-25,1,2,0,0,NA,2,70,30,0,0,100
+BE01000151,Contributor Personality Development Program,"Humanities and Social Science, including Management Courses",2024-25,1,2,0,0,NA,2,70,30,0,0,100
+BE01000161,Integrated Personality Development Course,"Humanities and Social Science, including Management Courses",2024-25,1,2,0,0,NA,2,70,30,0,0,100
+BE01000181,Digital Fabrication Workshop,Engineering Science Courses,2024-25,1,0,0,2,NA,1,0,0,20,80,100
+BE02000011,Mathematics – 2,Basic Science Courses,2024-25,2,3,1,0,NA,4,70,30,0,0,100
+BE02000021,English for Technical Communication,"Humanities and Social Science, including Management Courses",2024-25,2,2,0,2,NA,3,70,30,20,30,150
+BE02000031,Intellectual Property Rights,Multidisciplinary Open Professional Electives Courses,2024-25,2,2,0,0,NA,2,70,30,0,0,100
+BE02000041,Fundamental of AI,Multidisciplinary Open Professional Electives Courses,2024-25,2,2,0,0,NA,2,70,30,0,0,100
+BE02000061,Industrial Safety and Standards,Multidisciplinary Open Professional Electives Courses,2024-25,2,2,0,0,NA,2,70,30,0,0,100
+BE01R00011,Student Induction Program with essence of Indian Knowledge System,Mandatory Non-Credit Courses – Audit Course,2025-26,1,0,0,0,0,0,0,0,0,0,0
+BE01R00021,Physics,Basic Science Courses,2025-26,1,45,0,30,45,4,70,30,50,50,200
+BE01R00031,Chemistry,Basic Science Courses,2025-26,1,45,0,30,45,4,70,30,50,50,200
+BE01R00041,Mathematics-I,Basic Science Courses,2025-26,1,30,30,0,60,4,70,30,30,0,130
+BE01R00051,Basic Electrical Engineering,Engineering Science Courses,2025-26,1,45,0,30,45,4,70,30,50,50,200
+BE01R00061,Engineering Graphics & Design,Engineering Science Courses,2025-26,1,15,0,30,15,2,70,30,50,50,200
+BE01R00071,Design Thinking,Engineering Science Courses,2025-26,1,0,0,60,0,2,0,0,20,80,100
+BE01R00081,Basic Mechanical Engineering,Engineering Science Courses,2025-26,1,45,0,30,45,4,70,30,50,50,200
+BE01R00111,Basic Electronics Engineering,Engineering Science Courses,2025-26,1,45,0,30,45,4,70,30,50,50,200
+BE01R00121,Programming for Problem Solving,Engineering Science Courses,2025-26,1,30,0,60,30,4,70,30,50,50,200
+BE01R00141,Universal Human Values,"Humanities and Social Science, including Management Courses",2025-26,1,30,0,0,30,2,70,30,30,0,130
+BE01R00151,Contributor Personality Development Program,"Humanities and Social Science, including Management Courses",2025-26,1,30,0,0,30,2,70,30,30,0,130
+BE01R00161,Integrated Personality Development Course,"Humanities and Social Science, including Management Courses",2025-26,1,30,0,0,30,2,70,30,30,0,130
+BE01R00181,Digital Fabrication Workshop,Engineering Science Courses,2025-26,1,0,0,30,0,1,0,0,20,80,100
+BE02R00011,Mathematics – 2,Basic Science Courses,2025-26,2,30,30,0,60,4,70,30,30,0,130
+BE02R00021,English for Technical Communication,"Humanities and Social Science, including Management Courses",2025-26,2,30,0,30,30,3,70,30,50,50,200
+BE02R00031,Intellectual Property Rights,Multidisciplinary Open Professional Electives Courses,2025-26,2,30,0,0,30,2,70,30,30,0,130
+BE02R00041,Fundamental of AI,Multidisciplinary Open Professional Electives Courses,2025-26,2,30,0,0,30,2,70,30,30,0,130
+BE02R00061,Industrial Safety and Standards,Multidisciplinary Open Professional Electives Courses,2025-26,2,30,0,0,30,2,70,30,30,0,130
+BE02R00071,Standardization and Quality Ecosystem,Multidisciplinary Open Professional Electives Courses,2025-26,2,30,0,0,30,2,70,30,30,0,130
+BE03000051,Professional Communication and Ethics,"Humanities and Social Science, including Management Courses (Elective)",2025-26,3,30,0,30,0,2,70,30,20,50,170
+BE03000061,Indian Constitution,Core Courses,2025-26,3,30,0,0,30,2,50,0,30,0,80
+BE03000071,Digital Fundamentals,Professional Core Courses,2025-26,3,45,0,30,45,4,70,30,50,50,200
+BE03000081,Data Structures,Professional Core Courses,2025-26,3,45,0,60,15,4,70,30,50,50,200
+BE03000091,Database Management System,Professional Core Courses,2025-26,3,45,0,30,45,4,70,30,50,50,200
+BE03000251,Probability and Statistics,Basic Science Courses,2025-26,3,45,0,30,45,4,70,30,50,50,200
+BE04000101,"Environmental Science, Sustainability and Renewable Energy",Core Courses,2025-26,4,30,30,0,0,2,70,30,20,0,120
+BE04000221,Operating System,Professional Core Courses,2025-26,4,45,0,30,45,4,70,30,50,50,200
+BE04000231,Object Oriented Programming,Professional Core Courses,2025-26,4,45,0,30,45,4,70,30,50,50,200
+BE04000241,Analysis and Design of Algorithms,Professional Core Courses,2025-26,4,45,0,30,45,4,70,30,50,50,200
+BE04000251,Computer Organization & Architecture,Professional Core Courses,2025-26,4,45,0,30,15,3,70,30,50,50,200
+BE04000261,Discrete Mathematics and Graph Theory,Basic Science Courses,2025-26,4,45,30,0,15,3,70,30,30,0,130
+BE01RR0021,Physics,Basic Science Courses,2026-27,1,45,0,30,45,4,70,30,50,50,200
+BE03R00241,Indian Knowledge System for Engineering,"Humanities and Social Science, including Management Courses (Elective)",2026-27,3,30,0,30,0,2,70,30,20,50,170
+BE05000011,Societal Internship,Project Work,2026-27,5,0,0,60,0,2,0,0,20,80,100
+BE05000131,Advanced Java Programming,Professional Elective - I,2026-27,5,45,0,30,15,3,70,30,50,50,200
+BE05000171,Computer Networks,Professional Core Courses,2026-27,5,45,0,30,45,4,70,30,50,50,200
+BE05000181,Data Mining Techniques,Professional Elective - II,2026-27,5,45,0,30,15,3,70,30,50,50,200
+BE05000231,Python for Data Science,Professional Elective - I,2026-27,5,45,0,30,15,3,70,30,50,50,200
+BE05000261,System Software,Professional Core Courses,2026-27,5,45,0,30,15,3,70,30,50,50,200
+BE05000281,Web Application Development,Professional Elective - II,2026-27,5,45,0,30,15,3,70,30,50,50,200
+BE05000431,Energy Audit and Management,Multidisciplinary Open Professional Electives Courses,2026-27,5,45,0,0,15,2,70,30,30,0,130
+BE05000441,Application of Remote Sensing and GIS in Engineering,Multidisciplinary Open Professional Electives Courses,2026-27,5,45,0,0,15,2,70,30,30,0,130
+BE05000451,Occupational Health & Safety Management,Multidisciplinary Open Professional Electives Courses,2026-27,5,45,0,0,15,2,70,30,30,0,130
+BE05000471,Oil Hydraulics and Pneumatics,Multidisciplinary Open Professional Electives Courses,2026-27,5,45,0,0,15,2,70,30,30,0,130
+BE05000481,Project Management,Multidisciplinary Open Professional Electives Courses,2026-27,5,45,0,0,15,2,70,30,30,0,130
+BE05000491,Introduction to Biomedical Technology,Multidisciplinary Open Professional Electives Courses,2026-27,5,45,0,0,15,2,70,30,30,0,130
+BE05000501,Instrumentation and Measurement Techniques,Multidisciplinary Open Professional Electives Courses,2026-27,5,45,0,0,15,2,70,30,30,0,130
+BE05000521,Sustainability and Circularity in Textile Industry,Multidisciplinary Open Professional Electives Courses,2026-27,5,45,0,0,15,2,70,30,30,0,130
+BE05000531,Textile for Engineering Application,Multidisciplinary Open Professional Electives Courses,2026-27,5,45,0,0,15,2,70,30,30,0,130
+BE05000541,Fundamental of Power Electronics,Multidisciplinary Open Professional Electives Courses,2026-27,5,45,0,0,15,2,70,30,30,0,130
+BE05000551,Microprocessor and Interfacing,Professional Core Courses,2026-27,5,45,0,30,15,3,70,30,50,50,200
+BE05000561,Sustainable Energy Technology,Multidisciplinary Open Professional Electives Courses,2026-27,5,45,0,0,15,2,70,30,30,0,130
+BE05000571,"Sustainable Polymers: Materials, Safety and Circular Economy",Multidisciplinary Open Professional Electives Courses,2026-27,5,45,0,0,15,2,70,30,30,0,130
+BE06000511,Theory of Computation,Professional Core Courses,2026-27,6,45,0,30,45,4,70,30,50,50,200
+BE06000521,Agile Software Development & DevOps,Professional Core Courses,2026-27,6,45,0,30,45,4,70,30,50,50,200
+BE06000531,Machine Learning,Professional Core Courses,2026-27,6,45,0,30,45,4,70,30,50,50,200
+BE06000541,Information Security,Professional Elective - III,2026-27,6,45,0,30,15,3,70,30,50,50,200
+BE06000551,Image Processing and Computer Vision,Professional Elective - III,2026-27,6,45,0,30,15,3,70,30,50,50,200
+BE06000561,Introduction to Internet of Things,Professional Elective - IV,2026-27,6,45,0,30,15,3,70,30,50,50,200
+BE06000571,Mobile Application Development,Professional Elective - IV,2026-27,6,45,0,30,15,3,70,30,50,50,200
+BE07000151,Deep Learning,Professional Elective - V,2027-28,7,3,0,2,45,4,70,30,20,30,150
+BE07000161,Computer Vision,Professional Elective - V,2027-28,7,3,0,2,45,4,70,30,20,30,150
+BE07000171,Cloud Computing,Professional Elective - VI,2027-28,7,3,0,2,45,4,70,30,20,30,150
+BE07000181,Optimization Techniques for Machine Learning,Professional Elective - VI,2027-28,7,3,0,2,45,4,70,30,20,30,150
+BE07000191,Ethical Hacking,Multidisciplinary Open Professional Electives Courses,2027-28,7,3,0,0,45,3,70,30,0,0,100
+BE07000201,Industrial 4.0 and Industrial IOT,Multidisciplinary Open Professional Electives Courses,2027-28,7,3,0,0,45,3,70,30,0,0,100
+2140002,Design Engineering - I B,Compulsory,Dec 2014,4,0,0,3,NA,3,0,0,20,80,100
+2140702,Operating System,Compulsory,Dec 2014,4,4,0,2,NA,6,70,30,20,30,150
+2140705,Object Oriented Programming With C++,Compulsory,Dec 2014,4,4,0,4,NA,8,70,30,20,30,150
+2140706,Numerical and Statistical Methods for Computer Engineering,Compulsory,Dec 2014,4,3,0,2,NA,5,70,30,20,30,150
+2140707,Computer Organization,Compulsory,Dec 2014,4,4,1,0,NA,5,70,30,20,30,150
+2140709,Computer Networks,Compulsory,Dec 2014,4,4,0,2,NA,6,70,30,20,30,150
+2160001,Design Engineering - II B,Compulsory,Dec 2015,6,0,0,3,NA,3,0,0,20,80,100
+2160701,Software Engineering,Compulsory,Dec 2015,6,4,0,2,NA,6,70,30,20,30,150
+2160703,Computer Graphics,Departmental Elective I,Dec 2015,6,4,0,2,NA,6,70,30,20,30,150
+2160704,Theory of Computation,Compulsory,Dec 2015,6,3,0,0,NA,3,70,30,0,0,100
+2160707,Advanced Java,Compulsory,Dec 2015,6,4,0,2,NA,6,70,30,20,30,150
+2160708,Web Technology,Compulsory,Dec 2015,6,3,0,2,NA,5,70,30,20,30,150
+2160709,Embedded & VLSI Design,Departmental Elective I,Dec 2015,6,4,0,2,NA,6,70,30,20,30,150
+2160710,Distributed operating system,Departmental Elective I,Dec 2015,6,4,0,2,NA,6,70,30,20,30,150
+2160711,.Net Technology,Departmental Elective I,Dec 2015,6,4,0,2,NA,6,70,30,20,30,150
+2180703,Artificial Intelligence,Compulsory,Dec 2016,8,4,0,2,NA,6,70,30,20,30,150
+2180706,Project (Phase-II),Compulsory,Dec 2016,8,0,0,16,NA,16,0,0,20,80,100
+2180709,IOT and Applications,Departmental Elective III,Dec 2016,8,3,0,2,NA,5,70,30,20,30,150
+2180710,Big Data Analytics,Departmental Elective III,Dec 2016,8,3,0,2,NA,5,70,30,20,30,150
+2180711,Python Programming,Departmental Elective III,Dec 2016,8,3,0,2,NA,5,70,30,20,30,150
+2180712,Cloud Infrastructure and Services,Departmental Elective III,Dec 2016,8,3,0,2,NA,5,70,30,20,30,150
+2180713,Web data Management,Departmental Elective III,Dec 2016,8,3,0,2,NA,5,70,30,20,30,150
+2180714,iOS Programming,Departmental Elective III,Dec 2016,8,3,0,2,NA,5,70,30,20,30,150
+2180715,Android Programming,Departmental Elective III,Dec 2016,8,3,0,2,NA,5,70,30,20,30,150
+3180701,Internship/Project,Project Work,Dec 2021,8,0,0,24,NA,12,0,0,100,100,200
+3160001,Design Engineering II B,Project Work,Dec-2020,6,0,0,2,NA,1,0,0,20,80,100
+3160002,Contributor Personality Development Program,Personality development Elective,Dec-2020,6,2,0,0,NA,2,70,30,20,30,150
+3160003,Integrated Personality Development Course,Personality development Elective,Dec-2020,6,2,0,0,NA,2,70,30,20,30,150
+3160704,Theory of Computation,Professional Core,Dec-2020,6,4,1,0,NA,5,70,30,0,0,100
+3160707,Advanced Java Programming,Professional Elective - III,Dec-2020,6,3,0,2,NA,4,70,30,20,30,150
+3160712,Microprocessor and Interfacing,Professional Core,Dec-2020,6,3,0,2,NA,4,70,30,20,30,150
+3160713,Web Programming,Professional Elective - II,Dec-2020,6,3,0,2,NA,4,70,30,20,30,150
+3160714,Data Mining,Professional Elective - II,Dec-2020,6,3,0,2,NA,4,70,30,20,30,150
+3160715,System Software,Professional Elective - III,Dec-2020,6,3,0,2,NA,4,70,30,20,30,150
+3160716,IOT and applications,Open elective - II,Dec-2020,6,2,0,2,NA,3,70,30,20,30,150
+3160717,Data Visualization,Open elective - II,Dec-2020,6,2,0,2,NA,3,70,30,20,30,150
+noc26-cs136,The Joy of Computing using Python,Professional Elective - I (MOOC),July 2026,5,3,0,0,NA,3,100,0,0,0,100
+noc26-mg122,Advanced R Programming for Data Analytics in Busine,Professional Elective - II (MOOC),July 2026,5,3,0,0,NA,3,100,0,0,0,100
+noc26-mg139,Digital Marketing in the AI era - Part 1,Multidisciplinary Open Professional Electives Courses - II (MOOC),July 2026,5,2,0,0,NA,2,100,0,0,0,100
+noc26-bt86,Next Generation Sequencing Technologies Data Analysis and Applications,Professional Elective - IV (MOOC),July 2026,6,3,0,0,NA,3,100,0,0,0,100
+noc26-cs158,Computer Vision,Professional Elective - III (MOOC),July 2026,6,3,0,0,NA,3,100,0,0,0,100
+noc26-cs186,Mobile Virtual Reality and Artificial Intelligence,Multidisciplinary Open Professional Electives Courses - III (MOOC),July 2026,6,2,0,0,NA,2,100,0,0,0,100
+noc26-cs138,Deep Learning,Professional Elective - V (MOOC),July 2026,7,3,0,0,NA,3,100,0,0,0,100
+noc26-cs150,Cloud Computing,Professional Elective - VI (MOOC),July 2026,7,3,0,0,NA,3,100,0,0,0,100
+noc26-cs188,Programming with Generative AI,Multidisciplinary Open Professional Electives Courses - IV (MOOC),July 2026,7,2,0,0,NA,2,100,0,0,0,100
+2110002,Communication Skills,Compulsory,June 2013,1,2,0,2,NA,4,70,30,20,30,150
+2110003,Computer Programming And Utilization,Compulsory,June 2013,1,3,1,2,NA,6,70,30,20,30,150
+2110005,Elements of Electrical Engineering,Compulsory,June 2013,1,4,0,2,NA,6,70,30,20,30,150
+2110006,Elements of Mechanical Engineering,Compulsory,June 2013,1,4,0,2,NA,6,70,30,20,30,150
+2110007,Environmental Studies,Compulsory,June 2013,1,3,0,0,NA,3,70,30,0,0,100
+2110011,Physics,Compulsory,June 2013,1,3,0,2,NA,5,70,30,20,30,150
+2110013,Engineering Graphics,Compulsory,June 2013,1,2,0,4,NA,6,70,30,20,30,150
+2110014,Calculus,Compulsory,June 2013,1,3,2,0,NA,5,70,30,20,30,150
+2110015,Vector Calculus And Linear Algebra,Compulsory,June 2013,1,3,2,0,NA,5,70,30,20,30,150
+2110016,Basic Electronics,Compulsory,June 2013,1,4,0,2,NA,6,70,30,20,30,150
+2110017,Electrical and Electronics Workshop,Compulsory,June 2013,1,0,0,4,NA,4,0,0,20,80,100
+2990001,Contributor Personality Development,Compulsory,June 2013,1,4,0,0,NA,4,70,30,20,30,150
+2130002,Advance Engineering Mathematics,Compulsory,June 2014,3,3,2,0,NA,5,70,30,20,30,150
+2130004,Engineering Economics and Management,Compulsory,June 2014,3,3,0,0,NA,3,70,30,0,0,100
+2130005,Design Engineering I-A,Compulsory,June 2014,3,0,0,3,NA,3,0,0,20,80,100
+2130702,Data structures,Compulsory,June 2014,3,4,0,4,NA,8,70,30,20,30,150
+2130703,Database Management Systems,Compulsory,June 2014,3,4,0,4,NA,8,70,30,20,30,150
+2131004,Digital Electronics,Compulsory,June 2014,3,4,0,2,NA,6,70,30,20,30,150
+2150001,Design Engineering - II A,Compulsory,June 2015,5,0,0,3,NA,3,0,0,20,80,100
+2150002,Institute Elective - Cyber Security,Institute Elective,June 2015,5,0,1,2,NA,3,0,0,20,80,100
+2150003,Institute Elective - Diaster Management,Institute Elective,June 2015,5,3,0,0,NA,3,70,30,0,0,100
+2150703,Analysis and Design of Algorithms,Compulsory,June 2015,5,4,0,2,NA,6,70,30,20,30,150
+2150704,Object Oriented Programming using JAVA,Compulsory,June 2015,5,4,0,2,NA,6,70,30,20,30,150
+2150707,Microprocessor and Interfacing,Compulsory,June 2015,5,4,0,2,NA,6,70,30,20,30,150
+2150708,System Programming,Compulsory,June 2015,5,4,0,2,NA,6,70,30,20,30,150
+170702N,Wireless Communication and Mobile Programming,Compulsory,June 2016,7,3,0,2,NA,5,70,30,20,30,150
+2170002,Project - I,Compulsory,June 2016,7,0,0,5,NA,5,0,0,20,80,100
+2170701,Compiler Design,Compulsory,June 2016,7,4,0,2,NA,6,70,30,20,30,150
+2170709,Information and Network Security,Compulsory,June 2016,7,4,0,2,NA,6,70,30,20,30,150
+2170710,Mobile Computing and Wireless Communication,Compulsory,June 2016,7,4,0,2,NA,6,70,30,20,30,150
+2170712,Image Processing,Departmental Elective II,June 2016,7,3,0,2,NA,5,70,30,20,30,150
+2170713,Service Oriented Computing,Departmental Elective II,June 2016,7,3,0,2,NA,5,70,30,20,30,150
+2170714,Distributed DBMS,Departmental Elective II,June 2016,7,3,0,2,NA,5,70,30,20,30,150
+2170715,Data Mining and Business Intelligence,Departmental Elective II,June 2016,7,3,0,2,NA,5,70,30,20,30,150
+3150001,Design Engineering - II A,Project Work,June 2020,5,0,0,2,NA,1,0,0,20,80,100
+3150004,Contributor Personality Development Program,Personality development Elective,June 2020,5,2,0,0,NA,2,70,30,20,30,150
+3150005,Integrated Personality Development Course,Personality development Elective,June 2020,5,2,0,0,NA,2,70,30,20,30,150
+3150703,Analysis and Design of Algorithms,Professional Core,June 2020,5,4,0,2,NA,5,70,30,20,30,150
+3150709,Professional ethics,Humanities and Social Science,June 2020,5,3,0,0,NA,3,70,30,0,0,100
+3150710,Computer Networks,Professional Core,June 2020,5,4,0,2,NA,5,70,30,20,30,150
+3150711,Software Engineering,Professional Elective - I,June 2020,5,3,0,2,NA,4,70,30,20,30,150
+3150712,Computer Graphics,Professional Elective - I,June 2020,5,3,0,2,NA,4,70,30,20,30,150
+3150713,Python for Data Science,Open Elective - I,June 2020,5,2,0,2,NA,3,70,30,20,30,150
+3150714,Cyber Security,Open Elective - I,June 2020,5,2,0,2,NA,3,70,30,20,30,150
+3170001,Summer Internship,Project,June 2021,7,0,0,0,NA,2,0,0,20,80,100
+3170701,Compiler Design,Professional Core,June 2021,7,3,0,2,NA,4,70,30,20,30,150
+3170710,Mobile Computing and Wireless Communication,Professional Elective - IV,June 2021,7,3,0,0,NA,3,70,30,0,0,100
+3170716,Artificial Intelligence,Professional Core,June 2021,7,3,0,2,NA,4,70,30,20,30,150
+3170717,Cloud Computing,Professional Elective - IV,June 2021,7,3,0,0,NA,3,70,30,0,0,100
+3170718,Information Retrieval,Professional Elective - IV,June 2021,7,3,0,0,NA,3,70,30,0,0,100
+3170719,Distributed System,Professional Elective - V,June 2021,7,3,0,2,NA,4,70,30,20,30,150
+3170720,Information security,Professional Elective - V,June 2021,7,3,0,2,NA,4,70,30,20,30,150
+3170721,Parallel and Distributed Computing,Professional Elective - V,June 2021,7,3,0,2,NA,4,70,30,20,30,150
+3170722,Big Data Analytics,Professional Elective - VI,June 2021,7,3,0,2,NA,4,70,30,20,30,150
+3170723,Natural Language Processing,Professional Elective - VI,June 2021,7,3,0,2,NA,4,70,30,20,30,150
+3170724,Machine Learning,Professional Elective - VI,June 2021,7,3,0,2,NA,4,70,30,20,30,150
+3170725,Digital forensics,Open Elective - III,June 2021,7,2,0,2,NA,3,70,30,20,30,150
+3170726,Mobile Application Development,Open Elective - III,June 2021,7,2,0,2,NA,3,70,30,20,30,150
+3110001,Chemistry,Basic Science (Elective),Oct - 21,1,3,0,2,NA,4,70,30,20,30,150
