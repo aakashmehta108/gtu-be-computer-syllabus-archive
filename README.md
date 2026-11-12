@@ -19,7 +19,7 @@ Archived from the official portal (old26.gtu.ac.in/Syllabus/Syllabus.aspx) start
 
 ## PDF backup
 
-Offline copies of the syllabus PDFs are kept in a Google Drive folder, organised by scheme. The Drive link will be added here when the PDF backup is complete.
+Offline copies of the syllabus PDFs are kept in a public Google Drive folder, organised by scheme: [GTU BE Computer Syllabus PDFs](https://drive.google.com/drive/folders/1z8rFxjP6Bx1gsXOnKwM4p_gL7tFfwO0y). 245 of the 272 subjects have a PDF backup there (Scheme 2008: 55, Scheme 2013: 55, Scheme 2018-19: 62, Scheme 2024-25: 19, Revision 2025-26: 32, Revision 2026-27: 22). GTU's server has no syllabus PDF for the other 27 codes (150705, 180706, 2140002, 2170002, 2180706, BE06000511 to BE06000571, BE07000151 to BE07000201, and all 9 July 2026 MOOC codes), so the Revision 2027-28 and July 2026 MOOC folders are empty; those subjects' scheme details are still listed in this repo.
 
 ## Columns
 
